@@ -1,0 +1,5 @@
+
+- 1 delete this folder
+	app\code\Plazathemes\Layout\Block
+	app\code\Plazathemes\Override\Controller
+- 2 upload files in app folder to your server
